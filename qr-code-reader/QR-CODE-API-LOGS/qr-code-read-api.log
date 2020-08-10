@@ -1,0 +1,10 @@
+2020-08-09 14:14:14.803  INFO 18364 --- [main] c.r.q.QrCodeReaderApplicationTests       : Starting QrCodeReaderApplicationTests on Rupaks-MacBook-Air.local with PID 18364 (started by rupak in /Users/rupak/Desktop/java/qr-code-reader)
+2020-08-09 14:14:14.820  INFO 18364 --- [main] c.r.q.QrCodeReaderApplicationTests       : No active profile set, falling back to default profiles: default
+2020-08-09 14:14:19.187  INFO 18364 --- [main] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 2 endpoint(s) beneath base path '/actuator'
+2020-08-09 14:14:19.572  INFO 18364 --- [main] pertySourcedRequestMappingHandlerMapping : Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-08-09 14:14:20.079  INFO 18364 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-08-09 14:14:20.817  INFO 18364 --- [main] d.s.w.p.DocumentationPluginsBootstrapper : Context refreshed
+2020-08-09 14:14:20.884  INFO 18364 --- [main] d.s.w.p.DocumentationPluginsBootstrapper : Found 1 custom documentation plugin(s)
+2020-08-09 14:14:20.941  INFO 18364 --- [main] s.d.s.w.s.ApiListingReferenceScanner     : Scanning for api listing references
+2020-08-09 14:14:21.243  INFO 18364 --- [main] c.r.q.QrCodeReaderApplicationTests       : Started QrCodeReaderApplicationTests in 7.21 seconds (JVM running for 9.375)
+2020-08-09 14:14:21.950  INFO 18364 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
